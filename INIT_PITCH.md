@@ -2,7 +2,7 @@
 
 ## Lebled: A Nationwide Social Experiment Disguised as a Game
 
-Hey [Friend's Name], I'm incredibly excited to finally share this project I've been developing: Lebled. It's far more than just a game; it's a satirical, nationwide social experiment cleverly disguised as a real-time, text-based adventure.
+Hey friends, I'm incredibly excited to finally share this project I've been developing: Lebled. It's far more than just a game; it's a satirical, nationwide social experiment cleverly disguised as a real-time, text-based adventure.
 
 Imagine a unique blend of a choose-your-own-adventure book, a social simulation, and a thought-provoking commentary on Algerian society – that's Lebled in a nutshell.
 
